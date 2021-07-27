@@ -1,6 +1,6 @@
 ## Pro IP Lukup 
 
-### You will find everything almost IP address 
+### You will find everything information about  IP address 
 
 [Live Demo](https://ipinfofinder.netlify.app/)
 
